@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89f239e-e4e8-40ba-879d-44a6c97b6229" name="Changes" comment="" />
+    <list default="true" id="d89f239e-e4e8-40ba-879d-44a6c97b6229" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicJava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicJava/SmartTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/SmartTv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstDadosJava/Pilha/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstDadosJava/Pilha/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstDadosJava/Pilha/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstDadosJava/Pilha/No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstDadosJava/Pilha/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstDadosJava/Pilha/Pilha.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,16 +32,20 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2ubMijZwR8SEOSXKPW26ddpYFYT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EstDadosJava.Fila.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/eland/OneDrive/Documentos/JAVA/JAVA Projects/JavaDio/src/Main.java"
@@ -46,6 +58,54 @@
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.EstDadosJava.ListaEncadeada.Main">
+    <configuration name="EstDadosJava.Fila.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstDadosJava.Fila.Main" />
+      <module name="JavaDio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstDadosJava.Fila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstDadosJava.ListaEncadeada.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstDadosJava.ListaEncadeada.Main" />
+      <module name="JavaDio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstDadosJava.ListaEncadeada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstDadosJava.Pilha.Main" />
+      <module name="JavaDio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstDadosJava.Pilha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EstDadosJava.ListaEncadeada.Main" />
+        <item itemvalue="Application.EstDadosJava.Fila.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +123,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742513036322</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segundo Commit">
+      <option name="closed" value="true" />
+      <created>1742584984123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742584984123</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Terceiro Commit">
+      <option name="closed" value="true" />
+      <created>1742585011908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742585011908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Quarto Commit">
+      <option name="closed" value="true" />
+      <created>1744336302675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744336302676</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +163,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit" />
+    <MESSAGE value="Segundo Commit" />
+    <MESSAGE value="Terceiro Commit" />
+    <MESSAGE value="Quarto Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quarto Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package EstDadosJava;
+package EstDadosJava.Pilha;
 
 public class No {
     private  int dado;

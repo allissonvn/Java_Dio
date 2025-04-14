@@ -1,17 +1,14 @@
-package EstDadosJava;
+package EstDadosJava.Pilha;
 
 public class Pilha {
 
-    private No refNoEntradaPilha;
+    private No refNoEntradaPilha = null;
 
-    public Pilha() {
-        this.refNoEntradaPilha = null;
-    }
 
     public void push(No novoNo){
         No refAuxiliar = refNoEntradaPilha;
         refNoEntradaPilha = novoNo;
-        refAuxiliar.setRefNo(refAuxiliar);
+        refNoEntradaPilha.setRefNo(refAuxiliar);
     }
 
     public No pop(){
